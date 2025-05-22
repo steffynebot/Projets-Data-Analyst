@@ -59,6 +59,10 @@ Ce dépôt présente des projets variés utilisant des outils d'analyse de donn�
 - **Objectif :** Utiliser un algorithme de classification pour détecter les faux billets à partir de leurs caractéristiques  
 - **Compétences :** Machine Learning, modélisation supervisée, évaluation
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 2eb02e1 (maj readme)
 
 ---
 
